@@ -2,8 +2,6 @@ budget = int(input())
 seasons = input()
 people = int(input())
 
-price = 0
-discount = 0
 ship_price = 0
 
 if seasons == "Spring":
